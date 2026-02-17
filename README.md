@@ -102,7 +102,7 @@ agentic-game-builder/
 
 # Running the Agent
 
-## 🔹 Docker Build
+## Docker Build
 
 ```bash
 docker build -t agentic-game-builder .
@@ -146,7 +146,7 @@ in your browser.
 
 ---
 
-# 🎮 Example Interaction
+# Example Interaction
 
 ### Input:
 
