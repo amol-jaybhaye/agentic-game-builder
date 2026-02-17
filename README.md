@@ -271,5 +271,6 @@ The agent will always:
 
 Below is an example of a generated mango-catching game:
 
-![Terminal Screenshot](game.png)
-![Game Screenshot](terminal.png)
+![Terminal Screenshot](terminal.png)
+<br>
+![Game Screenshot](game.png)
